@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Projects Page</title>
+		<meta name="author" content="Hannah">	
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">		
+		<link rel="stylesheet" href="style.css">
+	</head>
+<header class="navbar1mine">
+	<div class="container">
+		<center>
+		<nav>
+				<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="aboutme.html">About Me</a></a></li>
+				<li><a href="projects.html">Projects</a></li>
+				<li><a href="contactpage.html">Contact</a></li>
+			</ul>
+		</nav>
+		</center>
+	</div>
+</header>
+<body>
+	<h1>Welcome to the Projects Page!</h1>
+	<p>On this page you will find all of my completed projects.</p>
+	<div class="containter">
+		<div class="row">
+			<div class="col-md-4">
+				<h2>Title</h2>
+				<br>
+				<h4>Description:</h4>
+				<br>
+				<h6>Image</h6>
+			</div>
+			<div class="col-md-4">
+				<h2>Title</h2>
+				<br>
+				<h4>Description:</h4>
+				<br>
+				<h6>Image</h6>
+			</div>
+			<div class="col-md-4">
+				<h2>Title</h2>
+				<br>
+				<h4>Description:</h4>
+				<br>
+				<h6>Image</h6>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

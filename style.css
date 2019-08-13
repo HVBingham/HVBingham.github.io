@@ -1,0 +1,119 @@
+body{
+	background-image: url(images/background2.jpg);
+	background-repeat: no-repeat;
+	 background-size: cover;
+	background-attachment: fixed;
+	margin:30px;
+	padding:20px;
+}
+
+h1{
+	font-family: impact;
+}
+ .navbar1mine{
+ 	background-color: white;
+ 	margin: 0;
+ 	padding: 0;
+}
+
+ nav{
+ 	color: black;
+ 	font-family: impact;
+ 	font-size: 20px;
+}
+
+nav ul{
+ 	margin: 0;
+ 	padding: 0;
+ 	list-style: none
+ }
+
+ nav li{
+ 	display: inline-block;
+ 	margin-left: 85px;
+ 	padding-top: 5px;
+
+ }
+ nav li a{
+ 		display: block;
+ 		color:teal;
+ 		padding:5px
+ }
+ nav a{
+ 	color: white;
+ 	text-decoration: none;
+ 	text-transform: uppercase;
+ }
+  nav a:visited{
+ 	color: hotpink;
+ } 
+ nav a:hover{
+ 	color: purple;
+ 	Background-color:white;
+ }
+ .active{
+ 	color:black;
+ 	background-color:teal
+ }
+ .portfolioline{
+ 	text-align: center;
+ 	color:hotpink
+ }
+ .bioshock{
+ 	font-family: impact;
+ 	font-size: 20px;
+ 	color: purple;
+ 	padding:0;
+ 	border: 10px solid gray;
+ 	
+ }
+.imagesclass1{
+	margin-left:30px;
+	Padding:10px
+}
+.imagesclass2{
+	margin-top:10px;
+	padding-top:05px;
+
+}
+ul{
+	list-style:none;
+	text-align:center
+}
+
+h3{
+	font-family: impact;
+	color: teal;
+	text-align: center
+}
+p{
+	font-size:20px;
+	color: green
+}
+div ul li{
+	color:green
+}
+div div div ul li a{
+	color:gray
+}
+div div div ul li a:hover{
+	color:purple
+}
+.arya{
+	padding:0;
+ 	border: 5px solid teal;
+}
+.moveit{
+	text-align:center
+}
+.makeitbigger{
+	font-size:30px
+}
+h2{
+	font-family: impact;
+	color:teal
+}
+h4{
+	font-family:impact;
+	color:Fuchsia
+}
